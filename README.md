@@ -52,4 +52,4 @@ Production-grade automation platform for high-velocity recruitment workflows and
 ## 📬 Let's Talk
 If you need an automation system that is actually production-ready, I am ready to build it.
 
-[LinkedIn](https://linkedin.com/in/syedashir) | [Portfolio](https://sydashir.github.io/) | [Email](mailto:meetashirr@gmail.com)
+[LinkedIn](https://linkedin.com/in/syedashir) | | [Email](mailto:meetashirr@gmail.com)
