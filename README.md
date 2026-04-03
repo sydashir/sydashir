@@ -46,6 +46,9 @@ Production-grade automation platform for high-velocity recruitment workflows and
 *Published in the International Journal of Information Systems and Technology (IJIST)*
 * **Focus:** Combining OpenCV facial analysis with CNN-based behavioral scoring for early-stage screening.
 * **Result:** Achieved 90%+ accuracy across 500+ clinical cases.
+### 📊 Engineering Productivity
+![Ashir's GitHub stats](https://github-readme-stats.vercel.app/api?username=sydashir&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sydashir&layout=compact&theme=tokyonight)
 
 ---
 
