@@ -7,7 +7,7 @@
 
 <!-- ===================== TYPING SVG ===================== -->
 <a href="https://github.com/sydashir">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&repeat=true&width=720&height=52&lines=Agentic+AI+%26+Resilient+Automation+Engineer;LLM+Orchestration+%7C+RAG+%7C+Computer+Vision;FastAPI+%7C+Playwright+%7C+Scrapy+%7C+Redis;AWS+Lambda+%7C+EMR+%7C+Docker+%7C+GCP;I+build+Digital+Workers+that+sleep+0+hours+a+day;Published+AI+Researcher+-+90%25%2B+Detection+Accuracy" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&repeat=true&width=720&height=52&lines=Agentic+AI+%26+Resilient+Automation+Engineer;LLM+Orchestration+%7C+Computer+Vision+%7C+Transformers;FastAPI+%7C+Flask+%7C+Selenium+%7C+AsyncIO;AWS+Lambda+%7C+Amazon+EMR+%7C+Docker+%7C+GCP;I+build+Digital+Workers+that+sleep+0+hours+a+day;Published+AI+Researcher+-+90%25%2B+Detection+Accuracy" alt="Typing SVG" />
 </a>
 
 <!-- ===================== SOCIAL BADGES ===================== -->
@@ -37,11 +37,11 @@ class SyedAshir:
     motto    = "Scripts are easy. Resilient automation is hard."
 
     expertise = {
-        "AI / ML"       : ["LLM Orchestration", "RAG", "Agents", "Computer Vision", "Fine-Tuning"],
-        "Automation"    : ["Playwright", "Scrapy", "Proxy Rotation", "Self-Healing Pipelines"],
-        "Backend"       : ["Python", "FastAPI", "Flask", "Streamlit", "SQLAlchemy"],
-        "Cloud / Infra" : ["AWS Lambda", "Amazon EMR", "Docker", "Redis", "GCP"],
-        "Data"          : ["PostgreSQL", "MySQL", "ETL Pipelines", "Vector DBs"],
+        "AI / ML"        : ["LLM Orchestration", "AI Agents", "Computer Vision", "Transformers", "CNN"],
+        "Automation"     : ["Selenium", "AsyncIO", "Task Scheduling", "ETL & OCR Pipelines"],
+        "Backend"        : ["Python", "FastAPI", "Flask", "REST APIs", "Redis Queue"],
+        "Cloud / Infra"  : ["AWS Lambda", "Amazon EMR", "Google Cloud", "Docker", "Git"],
+        "Data Science"   : ["Pandas", "NumPy", "Scikit-learn", "PostgreSQL", "SQL"],
     }
 
     currently = {
@@ -81,25 +81,29 @@ Production automation platform for high-velocity recruitment and intelligent can
 
 <div align="center">
 
-**Languages**
+**Languages** &nbsp; <sub>( mostly Python 🐍 )</sub>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css&theme=dark&perline=6" alt="languages" />
+<img src="https://skillicons.dev/icons?i=python,ts,js,html,css,cpp&theme=dark&perline=6" alt="languages" />
 
-**AI / Machine Learning**
+**AI / ML & Data Science**
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark&perline=4" alt="ai-ml" />
 
-**Backend & Frameworks**
+**Backend & APIs**
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs&theme=dark&perline=4" alt="backend" />
+<img src="https://skillicons.dev/icons?i=fastapi,flask&theme=dark&perline=2" alt="backend" />
 
-**Cloud, Infra & Automation**
+**Cloud, Infra & DevOps**
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,redis,git,linux&theme=dark&perline=6" alt="cloud" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,git&theme=dark&perline=4" alt="cloud" />
 
-**Databases**
+**Databases & Caching**
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite&theme=dark&perline=4" alt="databases" />
+<img src="https://skillicons.dev/icons?i=postgres,redis&theme=dark&perline=2" alt="databases" />
+
+<br/>
+
+<sub><i>Also working with</i> &nbsp; Pandas &nbsp;·&nbsp; NumPy &nbsp;·&nbsp; Transformers &nbsp;·&nbsp; Selenium &nbsp;·&nbsp; AsyncIO &nbsp;·&nbsp; ETL &amp; OCR Pipelines &nbsp;·&nbsp; Amazon EMR &nbsp;·&nbsp; Google Business Profile API</sub>
 
 </div>
 
