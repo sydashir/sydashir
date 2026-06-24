@@ -2,7 +2,7 @@
 <div align="center">
 
 <a href="https://github.com/sydashir">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Syed%20Ashir%20Hussain%20Shah&fontSize=50&fontColor=00d4ff&animation=fadeIn&fontAlignY=40&desc=Agentic%20AI%20%26%20Resilient%20Automation%20Engineer&descAlignY=62&descAlign=50&descSize=20&descColor=a8d8f0&reversal=false&v=2" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Syed%20Ashir%20Hussain%20Shah&fontSize=50&fontColor=00d4ff&animation=fadeIn&fontAlignY=40&desc=Agentic%20AI%20%C2%B7%20Resilient%20Automation%20Engineer&descAlignY=62&descAlign=50&descSize=20&descColor=a8d8f0" alt="header" />
 </a>
 
 <!-- ===================== TYPING SVG ===================== -->
