@@ -7,7 +7,7 @@
 
 <!-- ===================== TYPING SVG ===================== -->
 <a href="https://github.com/sydashir">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&repeat=true&width=720&height=52&lines=Agentic+AI+%26+Resilient+Automation+Engineer;LLM+Orchestration+%7C+Computer+Vision+%7C+Transformers;FastAPI+%7C+Flask+%7C+Selenium+%7C+AsyncIO;AWS+Lambda+%7C+Amazon+EMR+%7C+Docker+%7C+GCP;I+build+Digital+Workers+that+sleep+0+hours+a+day;Published+AI+Researcher+-+90%25%2B+Detection+Accuracy" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&repeat=true&width=720&height=52&lines=Agentic+AI+%26+Resilient+Automation+Engineer;LLM+Orchestration+%7C+Computer+Vision+%7C+Transformers;FastAPI+%7C+Flask+%7C+Selenium+%7C+AsyncIO;AWS+Lambda+%7C+Amazon+EMR+%7C+Docker+%7C+GCP;I+build+Digital+Workers+that+sleep+0+hours+a+day;Published+AI+Researcher+-+IJIST+2025" alt="Typing SVG" />
 </a>
 
 <!-- ===================== SOCIAL BADGES ===================== -->
@@ -46,9 +46,9 @@ class SyedAshir:
 
     currently = {
         "building"  : "🤖 Production Digital Workers that replace manual labor",
-        "shipping"  : "🚀 LLM platforms across healthcare & recruitment",
+        "shipping"  : "🚀 LLM platforms across healthcare & hiring",
         "exploring" : "🌱 Agentic AI · self-healing infra · MLOps at scale",
-        "highlight" : "📑 Published AI researcher — 90%+ autism-detection accuracy",
+        "highlight" : "📑 First-author paper on multimodal autism screening (IJIST 2025)",
     }
 
     def ship(self):
@@ -61,20 +61,21 @@ class SyedAshir:
 > Production-grade **Digital Workers** — autonomous systems that replace manual human labor with code.
 
 ### 🏥 GBP Content Factory &nbsp; [![Live](https://img.shields.io/badge/Live_Demo-00d4ff?style=flat-square&logo=streamlit&logoColor=0d1117)](https://gbp-autopost.districtbhg.com/)
-Automated content pipeline driving **28+ Google Business Profiles** across the US healthcare sector.
-- 🧠 Orchestrates **Claude AI** to filter local news and generate multi-angle editorial posts
-- 🎨 Integrated **Google Imagen 4** for context-aware automated image production
-- 🧱 `Python` · `Streamlit` · `SQLAlchemy` · `NewsAPI` · `SerpAPI`
+Turns local news into Google Business Profile posts for **28 addiction-treatment listings** across CA, FL and TN.
+- 🧠 **Claude** filters local news for relevance and writes two post variations per article
+- 🎨 Google image models render a matching image from a fixed menu of safe scenes; a person approves every post
+- 📈 **2,621 post variations scheduled** since April 2026
+- 🧱 `Python` · `Streamlit` · `SQLAlchemy` · `Claude` · `SerpAPI` · `DataForSEO` · `Zapier`
 
-### 🤖 District AI Intelligence Platform &nbsp; [![Live](https://img.shields.io/badge/Live_Demo-00d4ff?style=flat-square&logo=fastapi&logoColor=0d1117)](https://ai-tool.districtbhg.com/)
-Automation platform integrating RESTful APIs with Claude AI and CDC / Census data sources.
-- 💸 **80% reduction in API costs** via optimized Redis caching + prompt engineering
-- 🧱 `FastAPI` · `Claude AI` · `Redis` · `ETL Pipelines`
+### 🤖 District AI Intelligence Platform &nbsp; [![Live](https://img.shields.io/badge/Live_Demo-00d4ff?style=flat-square&logo=streamlit&logoColor=0d1117)](https://ai-tool.districtbhg.com/)
+Content console that turns a location row in Google Sheets into a row ready to import into WordPress: local stats from CDC WONDER, Census and Google Places, Claude-written copy, compliance checks and infographics.
+- 💸 Capping Claude web search per call cut a news lookup from **~$0.49 to ~$0.09**, with the same articles returned on test queries
+- 🧱 `Python` · `Streamlit` · `Claude` · `Google Sheets API` · `Google Places` · `WordPress REST`
 
-### 👔 Hirely — AI-Driven Recruitment Engine &nbsp; [![Live](https://img.shields.io/badge/Live_Demo-00d4ff?style=flat-square&logo=python&logoColor=0d1117)](https://hirely.hybridmediaworks.com/)
-Production automation platform for high-velocity recruitment and intelligent candidate screening.
-- 🧠 Automates the **"reasoning" layer** of candidate evaluation for Hybrid Mediaworks
-- 🧱 `Python` · `FastAPI` · `PostgreSQL` · `Agentic AI`
+### 👔 Hirely — AI Job Agent &nbsp; [![Live](https://img.shields.io/badge/Live_App-00d4ff?style=flat-square&logo=python&logoColor=0d1117)](https://hirely.hybridmediaworks.com/)
+Pulls postings from four job feeds; for each job, Claude tailors a resume and cover letter, scores the fit and lists missing keywords.
+- 🧠 Resume parsing, saved searches on a schedule, per-feed error reporting, A4 PDF export
+- 🧱 `Python` · `FastAPI` · `Claude` · `React`
 
 <!-- ===================== TECH STACK ===================== -->
 ## 🛠 Engineering Stack
@@ -110,10 +111,10 @@ Production automation platform for high-velocity recruitment and intelligent can
 <!-- ===================== PUBLISHED RESEARCH ===================== -->
 ## 📜 Published Research
 
-> ### [AI-Driven Autism Detection System](https://journal.50sea.com/index.php/IJIST/article/view/1531)
-> *International Journal of Information Systems and Technology (IJIST)*
-> - 🔬 Combined **OpenCV** facial analysis with **CNN**-based behavioral scoring for early-stage screening
-> - 🎯 Achieved **90%+ accuracy** across **500+ clinical cases**
+> ### [AI-driven Early Autism Detection and Therapeutic Intervention System](https://doi.org/10.33411/ijist/20257319881999)
+> *International Journal of Innovations in Science & Technology (IJIST)*, Vol. 7 No. 3, 2025. First author.
+> - 🔬 Screening web app that averages a **questionnaire model** and a **VGG16** transfer-learning image model
+> - 🌍 Designed for parents in low-literacy settings in rural Pakistan
 
 <!-- ===================== GITHUB STATS ===================== -->
 ## 📊 GitHub Stats
