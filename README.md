@@ -7,7 +7,7 @@
 
 <!-- ===================== TYPING SVG ===================== -->
 <a href="https://github.com/sydashir">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&repeat=true&width=720&height=52&lines=Agentic+AI+%26+Resilient+Automation+Engineer;LLM+Orchestration+%7C+Computer+Vision+%7C+Transformers;FastAPI+%7C+Flask+%7C+Selenium+%7C+AsyncIO;AWS+Lambda+%7C+Amazon+EMR+%7C+Docker+%7C+GCP;I+build+Digital+Workers+that+sleep+0+hours+a+day;Published+AI+Researcher+-+IJIST+2025" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&repeat=true&width=720&height=52&lines=Agentic+AI+%26+Resilient+Automation+Engineer;LLM+Orchestration+%7C+Computer+Vision+%7C+Transformers;FastAPI+%7C+Flask+%7C+Selenium+%7C+AsyncIO;AWS+Lambda+%7C+Amazon+EMR+%7C+Docker+%7C+GCP;I+build+LLM+pipelines+with+a+human+in+the+loop;Published+AI+Researcher+-+IJIST+2025" alt="Typing SVG" />
 </a>
 
 <!-- ===================== SOCIAL BADGES ===================== -->
@@ -45,9 +45,9 @@ class SyedAshir:
     }
 
     currently = {
-        "building"  : "🤖 Production Digital Workers that replace manual labor",
-        "shipping"  : "🚀 LLM platforms across healthcare & hiring",
-        "exploring" : "🌱 Agentic AI · self-healing infra · MLOps at scale",
+        "building"  : "🤖 LLM pipelines that take repetitive work off people's plates",
+        "shipping"  : "🚀 LLM content tools for a behavioral-health group, and a job-search assistant",
+        "exploring" : "🌱 Agentic AI · LLM evals · reliable long-running pipelines",
         "highlight" : "📑 First-author paper on multimodal autism screening (IJIST 2025)",
     }
 
@@ -58,23 +58,24 @@ class SyedAshir:
 <!-- ===================== FEATURED SYSTEMS ===================== -->
 ## 🚀 Featured Production Systems
 
-> Production-grade **Digital Workers** — autonomous systems that replace manual human labor with code.
+> LLM automation in production, with people approving what ships.
 
-### 🏥 GBP Content Factory &nbsp; [![Live](https://img.shields.io/badge/Live_Demo-00d4ff?style=flat-square&logo=streamlit&logoColor=0d1117)](https://gbp-autopost.districtbhg.com/)
-Turns local news into Google Business Profile posts for **28 addiction-treatment listings** across CA, FL and TN.
+### 🏥 GBP Content Factory &nbsp; [![Live](https://img.shields.io/badge/Project_Page-00d4ff?style=flat-square&logo=streamlit&logoColor=0d1117)](https://gbp-autopost.districtbhg.com/)
+Turns local news into Google Business Profile posts for a behavioral-health group's **28 configured listings** in CA, FL and TN.
 - 🧠 **Claude** filters local news for relevance and writes two post variations per article
 - 🎨 Google image models render a matching image from a fixed menu of safe scenes; a person approves every post
-- 📈 **2,621 post variations scheduled** since April 2026
+- 📈 **2,621 post variations scheduled**, Apr–Sep 2026 (1,533 from local news, 1,088 from a treatment-topic library)
 - 🧱 `Python` · `Streamlit` · `SQLAlchemy` · `Claude` · `SerpAPI` · `DataForSEO` · `Zapier`
 
-### 🤖 District AI Intelligence Platform &nbsp; [![Live](https://img.shields.io/badge/Live_Demo-00d4ff?style=flat-square&logo=streamlit&logoColor=0d1117)](https://ai-tool.districtbhg.com/)
-Content console that turns a location row in Google Sheets into a row ready to import into WordPress: local stats from CDC WONDER, Census and Google Places, Claude-written copy, compliance checks and infographics.
-- 💸 Capping Claude web search per call cut a news lookup from **~$0.49 to ~$0.09**, with the same articles returned on test queries
+### 🤖 District AI Intelligence Platform &nbsp; [![Live](https://img.shields.io/badge/Project_Page-00d4ff?style=flat-square&logo=streamlit&logoColor=0d1117)](https://ai-tool.districtbhg.com/)
+Content console that turns a location row in Google Sheets into a row ready to import into WordPress: local stats from CDC WONDER overdose data, a Census population table and Google Places (Claude fills gaps), copy, compliance checks and infographics.
+- 👥 Primary engineer on a small team (about two thirds of the code): geo-data engine, infographic generator, cost and cache fixes
+- 💸 Capping Claude web search at 2 uses per call cut a news lookup from **~$0.49 to ~$0.09** (82%), still returning all 5 articles on 3 test queries
 - 🧱 `Python` · `Streamlit` · `Claude` · `Google Sheets API` · `Google Places` · `WordPress REST`
 
-### 👔 Hirely — AI Job Agent &nbsp; [![Live](https://img.shields.io/badge/Live_App-00d4ff?style=flat-square&logo=python&logoColor=0d1117)](https://hirely.hybridmediaworks.com/)
-Pulls postings from four job feeds; for each job, Claude tailors a resume and cover letter, scores the fit and lists missing keywords.
-- 🧠 Resume parsing, saved searches on a schedule, per-feed error reporting, A4 PDF export
+### 👔 Hirely (live as Hybrid Job Agent) &nbsp; [![Live](https://img.shields.io/badge/Live_App-00d4ff?style=flat-square&logo=python&logoColor=0d1117)](https://hirely.hybridmediaworks.com/)
+Pulls postings from four job feeds; for any job you pick, Claude writes a tailored resume and cover letter, and the app returns a fit score and missing keywords.
+- 🧠 Resume parsing, saved searches on a schedule, per-feed error reporting, A4 print-to-PDF export
 - 🧱 `Python` · `FastAPI` · `Claude` · `React`
 
 <!-- ===================== TECH STACK ===================== -->
